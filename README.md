@@ -9,6 +9,7 @@ Published in the BMJ Digital Health and AI
 
 - `README.md` — Repository overview, citation and licences.
 - `LICENSE-DATA` — Data licence (CC BY 4.0).
+- `CITATION.cff` — Citation metadata
 - 'data' - Main folder for the scoping review data
 
 /data/
