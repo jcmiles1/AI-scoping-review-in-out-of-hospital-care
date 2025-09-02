@@ -18,7 +18,9 @@ Published in the BMJ Digital Health and AI
 - `data_dictionary.md` — Column definitions, coding and units.
 
 ## How to cite
-Miles, J. (2025). Data for: The Use of AI in the Out of Hospital Context (Version 1.0.0) [Data set]. https://github.com/jcmiles1/AI-scoping-review-in-out-of-hospital-care
+
+Miles JC, et al. *Dataset: Data for “AI in out-of-hospital care — scoping review”* (v1.0.0). Zenodo; 2025. https://doi.org/10.5281/zenodo.17038584
+
 
 ## Licences
 [tbc]
