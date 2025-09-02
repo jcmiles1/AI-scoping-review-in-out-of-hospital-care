@@ -1,6 +1,5 @@
-# Data for: THE USE OF ARTIFICIAL INTELLIGENCE IN THE OUT-OF-HOSPITAL CARE SETTINGS: A SCOPING REVIEW.
-
-The Use of Artificial Intelligence In the Out of Hospital Care Settings: A Scoping Review
+# The Use of Artificial Intelligence In the Out of Hospital Care Settings: A Scoping Review
+## The Dataset
 
 Published in the BMJ Digital Health and AI
 
