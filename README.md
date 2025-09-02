@@ -13,17 +13,10 @@ This repository contains the data and materials underlying the systematic review
 - `/docs/` – Add figures (e.g. PRISMA 2020 flow diagram).
 
 ## How to cite
-If a Zenodo DOI is minted (recommended), please cite:
-
-> [Lead surname] [Initials]. *Dataset: Data for “[Review title]”* (v1.0.0). Zenodo; 2025. https://doi.org/XXXXXXXX
-
-If citing GitHub directly (fallback):
-
-> [Lead surname] [Initials]. *Data for “[Review title]”* (v1.0.0). GitHub; 2025. Available from: https://github.com/USER/REPO/releases/tag/v1.0.0 (accessed 2025-09-02).
+> Miles, J. *Data for “[Review title]”* (v1.0.0). GitHub; 2025. Available from: https://github.com/jcmiles1/AI-scoping-review-in-out-of-hospital-care (accessed 2025-09-02).
 
 ## Licences
-- **Data:** CC BY 4.0 © [Your Name/Institution].
-- **Code (if any):** MIT © [Your Name/Institution].
+[tbc]
 
 ## Provenance and methods (summary)
 Please complete: Searches conducted on [dates] across [databases]. Deduplication by [method]. Screening in [software], with [process]. Extraction by [N reviewers], with consensus procedures. Risk-of-bias using [instrument].
