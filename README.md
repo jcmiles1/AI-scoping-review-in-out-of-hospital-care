@@ -6,9 +6,12 @@ Published in the BMJ Digital Health and AI
 [Update with citation]
 
 ## Contents
-- `/data/extracted_data.xlsx` – Original workbook.
-- `/data/*.csv` – CSV exports of each worksheet for long-term readability.
-- `/data/data_dictionary.*` – Auto-generated draft data dictionary (please refine descriptions).
+
+
+/data/
+- `extracted_data.xlsx` — Canonical workbook as deposited.
+- `information.csv` — Curated extraction table (CSV export of the *Information* sheet).
+- `data_dictionary.md` — Column definitions, coding and units.
 
 ## How to cite
 > Miles, J. *Data for “[Review title]”* (v1.0.0). GitHub; 2025. Available from: https://github.com/jcmiles1/AI-scoping-review-in-out-of-hospital-care (accessed 2025-09-02).
