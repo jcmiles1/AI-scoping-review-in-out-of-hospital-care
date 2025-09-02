@@ -7,6 +7,9 @@ Published in the BMJ Digital Health and AI
 
 ## Contents
 
+- `README.md` — Repository overview, citation and licences.
+- `LICENSE-DATA` — Data licence (CC BY 4.0).
+- 'data' - Main folder for the scoping review data
 
 /data/
 - `extracted_data.xlsx` — Canonical workbook as deposited.
