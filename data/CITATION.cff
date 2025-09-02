@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use these data, please cite this repository."
-title: "Data for: [Full review title]"
+title: "Data for: The Use of AI in the Out of Hospital Context"
 version: "1.0.0"
 type: dataset
 authors:
-  - family-names: "[Surname]"
-    given-names: "[First]"
-    affiliation: "[Institution]"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Miles"
+    given-names: "Jamie"
+    affiliation: "Univeristy of Sheffield"
+    orcid: "https://orcid.org/0000-0002-1080-768X"
 date-released: "2025-09-02"
-repository-code: "https://github.com/USER/REPO"
+repository-code: "https://github.com/jcmiles1/AI-scoping-review-in-out-of-hospital-care"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.XXXXXXX"
+
