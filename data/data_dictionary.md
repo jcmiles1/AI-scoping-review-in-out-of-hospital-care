@@ -29,30 +29,3 @@
 | `doi.1` | object | 229/236 | 10.2196/51844; ARTN 101492     10.1016/j.seps.2022.101492; RAYYAN-INCLUSION: {"Jamie"=>"Included", "Charlotte"=>"Maybe"} \| RAYYAN-LABELS: 3. Evolutionary ,B. Dispatch level |
 | `keywords` | object | 227/236 | Sdoh;algorithm;algorithms;association;associations;cardiac;cardiology;cluster;clustering;cohort;death;heart;k-means;machine learning;mortality;myocardial;observational;out-of-hospital-cardiac arrest;phenotype;phenotypes;retrospective;social determinants of health;subphenotype;subphenotypes;survival;survive;survivor;survivors; emergency medical services;forecasting;data-driven;neural networks;ems calls;ambulance service demand;ambulance location;neural-networks;demand;optimization;challenges;prediction;management;model; 10.5867/medwave.2022.03.002100     %(Uso de simulacion de eventos discretos y algoritmos geneticos para estimar los recursos necesarios para responder oportunamente en el sistema de emergencias medicas en Bogota. |
 
-## Sheet: Sheet3
-
-| Column | Type (inferred) | Non-null | Example values |
-|---|---|---:|---|
-| `Unnamed: 0` | object | 10/11 | Count of Level; Row Labels; A. System level |
-| `Unnamed: 1` | object | 9/11 | Column Labels; 1. Classical Machine Learning; 14 |
-| `Unnamed: 2` | object | 8/11 | 2. Deep Learning; 17; 3 |
-| `Unnamed: 3` | object | 6/11 | 3. Evolutionary; 11; 13 |
-| `Unnamed: 4` | object | 5/11 | 4. Natural Language; 2; 3 |
-| `Unnamed: 5` | object | 8/11 | 5. Ensemble / Proprietary; 4; 9 |
-| `Unnamed: 6` | object | 1/11 | (blank) |
-| `Unnamed: 7` | object | 8/11 | Grand Total; 46; 32 |
-| `Unnamed: 8` | object | 6/11 | Leanne; Charlotte L; Jamie |
-
-## Sheet: Dump
-
-| Column | Type (inferred) | Non-null | Example values |
-|---|---|---:|---|
-| `Country` | object | 236/236 | Iran; Japan; Saudi Arabia |
-| `Unnamed: 1` | float64 | 0/236 |  |
-| `Unnamed: 2` | float64 | 0/236 |  |
-| `Unnamed: 3` | float64 | 0/236 |  |
-| `Unnamed: 4` | object | 46/236 | Row Labels; USA; India |
-| `Unnamed: 5` | object | 45/236 | Count of Country; 40; 22 |
-| `Unnamed: 6` | float64 | 0/236 |  |
-| `Unnamed: 7` | float64 | 0/236 |  |
-| `Unnamed: 8` | object | 1/236 | Wrong Study Design (not AI), 14; Not Primary Research, 12;  Wrong Population (not Prehospital), 12; not peer reviewed, 4; Unable to locate, 3; Not English language, 3 |
