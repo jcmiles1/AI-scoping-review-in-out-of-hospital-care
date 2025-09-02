@@ -3,15 +3,10 @@
 
 This repository contains the data and materials underlying the systematic review.
 
-> **Provisional title**: *[Insert the exact article title used for BMJ Digital Health & AI]*
-
 ## Contents
-- `/data/extracted_data.xlsx` – Original workbook as provided.
+- `/data/extracted_data.xlsx` – Original workbook.
 - `/data/*.csv` – CSV exports of each worksheet for long-term readability.
 - `/data/data_dictionary.*` – Auto-generated draft data dictionary (please refine descriptions).
-- `/data/search_strategies/` – Add full database search strings and run dates.
-- `/data/screening/` – Add PRISMA counts and (optionally) inclusion/exclusion with reasons.
-- `/docs/` – Add figures (e.g. PRISMA 2020 flow diagram).
 
 ## How to cite
 > Miles, J. *Data for “[Review title]”* (v1.0.0). GitHub; 2025. Available from: https://github.com/jcmiles1/AI-scoping-review-in-out-of-hospital-care (accessed 2025-09-02).
