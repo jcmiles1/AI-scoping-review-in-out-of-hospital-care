@@ -18,7 +18,7 @@ Published in the BMJ Digital Health and AI
 - `data_dictionary.md` — Column definitions, coding and units.
 
 ## How to cite
-> Miles, J. *Data for “[Review title]”* (v1.0.0). GitHub; 2025. Available from: https://github.com/jcmiles1/AI-scoping-review-in-out-of-hospital-care (accessed 2025-09-02).
+Miles, J. (2025). Data for: The Use of AI in the Out of Hospital Context (Version 1.0.0) [Data set]. https://github.com/jcmiles1/AI-scoping-review-in-out-of-hospital-care
 
 ## Licences
 [tbc]
