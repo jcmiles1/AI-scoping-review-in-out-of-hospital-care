@@ -1,2 +1,29 @@
-# AI-scoping-review-in-out-of-hospital-care
-This is the data file for the AI scoping review in out of hospital care, published in the BMJ Digital Health and AI
+# Data for: [Full review title]
+
+This repository contains the data and materials underlying the systematic review.
+
+> **Provisional title**: *[Insert the exact article title used for BMJ Digital Health & AI]*
+
+## Contents
+- `/data/extracted_data.xlsx` – Original workbook as provided.
+- `/data/*.csv` – CSV exports of each worksheet for long-term readability.
+- `/data/data_dictionary.*` – Auto-generated draft data dictionary (please refine descriptions).
+- `/data/search_strategies/` – Add full database search strings and run dates.
+- `/data/screening/` – Add PRISMA counts and (optionally) inclusion/exclusion with reasons.
+- `/docs/` – Add figures (e.g. PRISMA 2020 flow diagram).
+
+## How to cite
+If a Zenodo DOI is minted (recommended), please cite:
+
+> [Lead surname] [Initials]. *Dataset: Data for “[Review title]”* (v1.0.0). Zenodo; 2025. https://doi.org/XXXXXXXX
+
+If citing GitHub directly (fallback):
+
+> [Lead surname] [Initials]. *Data for “[Review title]”* (v1.0.0). GitHub; 2025. Available from: https://github.com/USER/REPO/releases/tag/v1.0.0 (accessed 2025-09-02).
+
+## Licences
+- **Data:** CC BY 4.0 © [Your Name/Institution].
+- **Code (if any):** MIT © [Your Name/Institution].
+
+## Provenance and methods (summary)
+Please complete: Searches conducted on [dates] across [databases]. Deduplication by [method]. Screening in [software], with [process]. Extraction by [N reviewers], with consensus procedures. Risk-of-bias using [instrument].
